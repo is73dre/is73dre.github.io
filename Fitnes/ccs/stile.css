@@ -1,0 +1,161 @@
+.clearfix:after{ 
+	content: '';
+	display: table;
+	width: 100%;
+	clear: both;
+	}
+.container{
+	width: 930px;
+	margin: 0 auto;
+
+}
+.logo{
+	margin-top: 41px;
+	float: left;
+}
+header{
+	background: url(../img/fitnes.jpg) no-repeat center top / cover;
+	padding-bottom: 160px;
+	height: 665px;
+}
+
+
+nav{
+	float: right: 
+}
+.menu{
+	padding: 0;
+	margin: 0;
+	display: block;
+
+}
+.menu li{
+	float: right;
+	display: block;
+	margin-right: 44px;
+	margin-top: 41px;
+}
+.menu li a{
+	color: #ffff;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 13px;
+}
+.titles__first{
+	font-size: 40px;
+	color: #ffff;
+	text-transform: uppercase;
+	text-align: center;
+	margin-top:100px;
+
+
+}
+
+h1{
+	font-size: 75px;
+	color: #ffff;
+	text-transform: uppercase;
+	text-align: center;
+	
+}
+
+.button{
+	background: #ffcc33;
+	color: #333333;
+
+	border-radius: 3px;
+	display: block;
+	width: 240px;
+	padding: 20px 0;
+	margin: 0 auto;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 18px;
+	margin-top: 70px;
+}
+.title{
+	padding-top: 120px;
+}
+
+.title h2{
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 0;
+
+
+}
+
+.title p{
+	color: #666666;
+	text-align: center;
+	font-size: 16px;
+	margin-top: 20;
+}
+.services{
+	margin-top: 80px;
+	padding-bottom:120px;
+
+}
+
+.services__item{
+	width: 250px;
+	float: left;
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+.services__item h3{
+	font-size: 18px;
+}
+
+.services__item p{
+	font-size: 14px;
+	color: #666666;
+	line-height: 1.55em;
+}
+
+.services__item:last-child{
+	float: right;
+
+}
+
+.services__item:nth-child(2){
+	margin-left: 92px;
+}
+#portfolio{
+	background: #cccccc;
+	padding-bottom:120px;
+	width: 100%;
+
+}
+.works{
+	margin-top: 79px;
+
+
+}
+
+.works img{
+	float: center;
+	width: 220px;
+	height: 220px;
+	margin-left: 5%;
+}
+
+
+.contact{
+	background: url(../img/fon2.jpg) no-repeat center top / cover;
+	padding-bottom: 160px;
+	height: 665px;
+}
+
+.nomer{
+	display: block;
+	margin-left: 400px;
+	font-size: 20px;
+	color: white;
+}
+

@@ -1,0 +1,4 @@
+[0212/192105.006:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name metrics_client_id, discarding value f7d1fbbe0cbb4928af559c0710bef3e6
+[0212/192107.517:ERROR:crash_report_database_win.cc(828)] DeleteFile C:\Users\dns\AppData\Local\Yandex\YandexBrowser\User Data\Crashpad\reports\233e0cbd-4e38-497a-bc8f-40c65e351207.dmp: Процесс не может получить доступ к файлу, так как этот файл занят другим процессом. (0x20)
+[0227/195743.107:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name metrics_client_id, discarding value f7d1fbbe0cbb4928af559c0710bef3e6
+[0227/195744.818:ERROR:crash_report_database_win.cc(828)] DeleteFile C:\Users\dns\AppData\Local\Yandex\YandexBrowser\User Data\Crashpad\reports\53336513-ed9c-43ab-8319-2b49f865aef4.dmp: Процесс не может получить доступ к файлу, так как этот файл занят другим процессом. (0x20)
