@@ -1,0 +1,41 @@
+.sek{
+	background-color: #f0f0f0;
+	padding-bottom: 160px;
+	height: 100%;
+}
+
+.section{
+	background-color: #f0f0f0;
+}
+.head{
+	font-size: 70px;
+	line-height: 1.5;
+	margin:160px auto;
+	color: red;
+	font-family: Monotype Corsiva;
+}
+.serdce{
+	height: 300px;
+	width: 300px;
+	margin-left: 520px;
+	padding-bottom: 30px;
+}
+.predislovie{
+	font-size: 50px;
+	line-height: 1.5;
+	margin:160px auto;
+	color: red;
+	font-family: Monotype Corsiva;
+}
+.content{
+	font-size: 30px;
+	line-height: 1.5;
+	margin:160px auto;
+	color: red;
+	font-family: Monotype Corsiva;
+}
+.fot{
+	max-width: 100%;
+	height: auto;
+	
+}
